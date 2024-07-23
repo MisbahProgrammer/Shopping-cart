@@ -1,0 +1,1 @@
+I created this shopping cart using html,css and javaScript.it helps me in understanding the javaScript functions and loops and DOM Manupulation.i will create more features in this project after learning new concepts of javaScript.
