@@ -51,6 +51,12 @@ header{
     color: rgb(0, 143, 219);
     font-weight: 500;
 }
+#user{
+    font-size: 1.6rem;
+    color: rgb(0, 143, 219);
+    margin-right: 10px;
+    cursor: pointer;
+}
 #cart-icon{
     font-size: 1.8rem;
     cursor: pointer;
